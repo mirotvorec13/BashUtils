@@ -1,0 +1,29 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Executables
+*.exe
+*.out
+*.app
+*.hex
+*.i*86
+*.x86_64
+
+# Kernel Module Compile Results
+*.mod*
+Mkfile.old
+
+#Debug files
+*.dSYM
+*.su
+*.idb
+*.pdb
